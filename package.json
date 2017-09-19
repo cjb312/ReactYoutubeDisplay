@@ -1,9 +1,9 @@
 {
-  "name": "redux-simple-starter",
+  "name": "ReactYoutubeDisplay",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "A simple react app that looks like youtube and functions like it",
   "main": "index.js",
-  "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
+  "repository": "git@github.com:cjb312/ReactYoutubeDisplay.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
